@@ -1,10 +1,3 @@
-/*
-SUBMITTED BY: FARWAH HAMID
-REGISTRATION NUMBER: FA22-BCT-007
-SUBMITTED TO: MAM SANEEHA AAMIR
-PROJECT TITLE: CLASS RECORD MANAGEMENT SYSTEM
- */
-
 import java.io.File;
 import java.util.InputMismatchException;
 import java.util.Scanner;
